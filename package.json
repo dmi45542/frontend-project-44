@@ -14,11 +14,20 @@
     "type": "git",
     "url": "git+https://github.com/dmi45542/frontend-project-44.git"
   },
-  "keywords": ["brain-games"],
+  "keywords": [
+    "brain-games"
+  ],
   "author": "Dmitrij",
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/dmi45542/frontend-project-44/issues"
   },
-  "homepage": "https://github.com/dmi45542/frontend-project-44#readme"
+  "homepage": "https://github.com/dmi45542/frontend-project-44#readme",
+  "dependencies": {
+    "readline-sync": "^1.4.10"
+  },
+  "devDependencies": {
+    "@stylistic/eslint-plugin": "^5.10.0",
+    "eslint": "^10.4.1"
+  }
 }
