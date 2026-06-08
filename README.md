@@ -18,3 +18,4 @@
 
 ## Демонстрация игры brain-progression
 [![asciicast](https://asciinema.org/a/ВАШ_ИДЕНТИФИКАТОР.svg)](https://asciinema.org/a/ВАШ_ИДЕНТИФИКАТОР)
+[![asciicast](https://asciinema.org/a/rbSqAUOS5AwIbMEE.svg)](https://asciinema.org/a/rbSqAUOS5AwIbMEE)
