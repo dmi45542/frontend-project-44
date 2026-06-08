@@ -21,3 +21,5 @@ lint:
 
 lint-fix:
 	npx eslint . --fix
+brain-progression:
+	node bin/brain-progression.js
